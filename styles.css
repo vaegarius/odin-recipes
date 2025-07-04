@@ -3,4 +3,20 @@
     color:#9f9d2d
 }
 
-backg
+body {
+    text-align: center;
+}
+
+h1 {
+    border:solid yellow;
+    width:auto;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    text-decoration:none;
+    list-style-type: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}

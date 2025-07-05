@@ -1,0 +1,29 @@
+* {
+    background-color:#632020;
+    color:#9f9d2d;
+    border: 0px;
+    text-align: center;
+}
+
+body {
+    border: 2px solid yellow;
+    margin:0px 500px ;
+}
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pic {
+    border: 5px double yellow;
+}
+
+.itemstitle {
+    background-color: #cf661144;
+    border: 3px outset;
+}
+
+.howtitle {
+    background-color: #cf661144;
+    border: 3px outset;
+}
